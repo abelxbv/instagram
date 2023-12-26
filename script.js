@@ -24,7 +24,7 @@ function sendEmail(event) {
           console.log("Email sent successfully:", response);
 
           // Redirect to a specific URL after successful email submission
-          window.location.href = "https://instagram.com";
+          window.location.href = "https://www.instagram.com/leo_archiavi";
         },
         (error) => {
           console.error("Error sending email:", error);
